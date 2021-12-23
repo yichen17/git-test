@@ -3,5 +3,9 @@ my name is yichen
 how old are you?
 how do you do?
 =======
+<<<<<<< HEAD
 test bbb
+=======
+test aaa
+>>>>>>> f369251e2b8189d4ab8ca9e97c7ea335cf317db3
 Is there anything i can do for you 
